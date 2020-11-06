@@ -1,0 +1,31 @@
+Police : 
+Opter pour une police Sans-serif sans empattement adéquate pour la lecture Web.
+
+Possibilités pour les grands titres : police dite display ou décorative.
+
+Il faut que l'on joue sur la taille, l'espace, les couleurs.
+Le texte sera justifié
+
+Texte :
+Opter pour une police Sans-Serif sans empattement adéquate pour la lecture Web. Jouer avec les espacements, 
+la taille et les couleurs du texte pour avoir un rendu espacé et lisible.
+Le texte sera justifié dans une police plus petite que celle du titre. Utiliser une couleur agréable et qui
+se mariera bien avec les couleurs du site internet.
+
+Titre (Introduction/dev/conclusion) : 
+Même police que le texte, espacer titre et texte.
+Le titre doit avoir une taille de police plus grande que le texte et être en gras. 
+La couleur de la police sera de préference différente que celle du texte pour que l'on puisse bien marquer 
+une différence entre les deux.
+
+
+2 possibilités : 
+aligner titre et texte
+mettre un alinéa au titre et laisser le texte tel quel.
+
+Couleur du site :
+Sachant que nous avons une image très grande en début de site il faut que nous trouvions une couleur qui rendra bien avec l'image. 
+
+idées de couleur : 03035F ou #000 
+Comment les couleurs proposées sont sombres, il faudrait utiliser une police claire comme le blanc ou autre si idées.
+
