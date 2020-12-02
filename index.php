@@ -42,9 +42,9 @@
                     <section>
                         <div class="box">
                             <img src="noir.png" class="img-fluid" alt="Image accueil">
-                            <h6 class="legende text-light">Projet tutoré : L'aide des logiciels de Musique assisté par ordinateur dans la conception musicale</h1>
+                            
                                 <nav>
-                                    <a href="decouvrir.html" class="legende2 text-light">Découvrir</a>
+                                    <a href="decouvrir.html" class="legende2 text-light"><h6 class="text-light">Découvrir : L'aide des logiciels de Musique assistée par ordinateur dans la conception musicale</h6></a>
                                 </nav>
                             </div>
                     </section>
@@ -56,22 +56,24 @@
                             <div class="ml-5">
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
                             </div>   
-                                <div class="container-fluid">
-                                    <nav class="justify-content-start">
-                                        <a href="partie1.html"><img class="rounded float-left" src="image3parties.png" style="margin: 10px 0;"alt="partie1"></a>
+                                <div class="d-flex justify-content-around pt-5">
+                                    <nav>
+                                        <a href="partie1.html"><img  class="mr-4 rounded" src="imagedepartie.png" alt="partie1"></a>
+                                        <a href="partie2.html"><img  class="mr-4 rounded" src="imagedepartie.png" alt="partie2"></a>
+                                        <a href="partie3.html"><img  class="mr-4 rounded" src="imagedepartie.png" alt="partie3"></a>
                                     </nav>
                                 </div>
                                     <nav>
                                         <div>
                                             <br>
-                                                <div class="text-center">
-                                                    <a href="conclusion.html"><button type="button" class="btn btn-outline-primary">Voir conclusion</button></a>
+                                                <div class="text-center pt-5">
+                                                    <a href="conclusion.html"><button type="button" class="btn btn-outline-primary btn-lg">Voir conclusion</button></a>
                                                 </div>    
                                     </nav>
                     </section>
                         <br>
                 </main>
-            <footer class="text-light"> 
+            <footer class="text-light pt-5"> 
                 <div class="text-center">
                     <h6>Site réalisé par BERNHARD William / HEIDET Lucas / TROGNOT Mathias / VILMARD Alexis </h3>
             </footer> 
