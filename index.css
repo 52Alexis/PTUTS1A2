@@ -1,13 +1,8 @@
-.grey{
-    background-color: #2F2E33;
-    }
 h6{
     display: block;
     margin: 20px;
 }
-marginl{
-    padding-left: 100px;
-}
+
 .box{
     position: relative;
 }
@@ -38,3 +33,8 @@ marginl{
     opacity: 1;
 }
 
+.hauteur{
+    height: 80%;
+    width: 20%;
+    margin-top: 17px;
+}

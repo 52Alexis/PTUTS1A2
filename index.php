@@ -1,8 +1,3 @@
-<?php 
-
-
-?>
-
 <!DOCTYPE HTML>
 <html lang="fr">
 <head>
@@ -14,30 +9,8 @@
 
 </head>
 
-<body class="grey">
-    <div class="rounded-bottom border-bottom border-primary bordures">
-        <div class="container-fluid">
-            <header>
-                <img class="rounded float-left" src="" alt="Photo de l'iut belfort montbéliard" class="rounded float left">
-                    <div class="text-center">
-                        <img class="rounded" src="" alt="Photo du département Informatique iut belfort" class="rounded float left">
-                    </div>
-                        <nav>
-                            <ul class="nav justify-content-end">
-                                <li class="nav-item">
-                                    <a class="nav-link" href="index.php">Membres du groupe</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="partie1.html">A propos</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="PHPMailer/mailer.php">Nous contacter</a>
-                                </li>
-                            </ul>
-                        </nav>
-                    </header>
-                </div>
-            </div>
+<body>
+    <?php include("head.php") ?>
                 <main>
                     <section>
                         <div class="box">
@@ -73,10 +46,7 @@
                     </section>
                         <br>
                 </main>
-            <footer class="text-light pt-5"> 
-                <div class="text-center">
-                    <h6>Site réalisé par BERNHARD William / HEIDET Lucas / TROGNOT Mathias / VILMARD Alexis </h3>
-            </footer> 
+            <?php include("footer.php") ?>
 
 </body>
 
