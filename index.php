@@ -7,7 +7,7 @@
 <html lang="fr">
 <head>
         
-        <title>PTUT </title>
+        <title>PTUT</title>
         <meta charset="utf-8">
         <link rel="stylesheet" href="index.css">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
@@ -31,7 +31,7 @@
                                     <a class="nav-link" href="partie1.html">A propos</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="partie2.html">Nous contacter</a>
+                                    <a class="nav-link" href="PHPMailer/mailer.php">Nous contacter</a>
                                 </li>
                             </ul>
                         </nav>
@@ -41,7 +41,7 @@
                 <main>
                     <section>
                         <div class="box">
-                            <img src="noir.png" class="img-fluid" alt="Image accueil">
+                            <img src="Img/noir.png" class="img-fluid" alt="Image accueil">
                             
                                 <nav>
                                     <a href="decouvrir.html" class="legende2 text-light"><h6 class="text-light">Découvrir : L'aide des logiciels de Musique assistée par ordinateur dans la conception musicale</h6></a>
@@ -58,9 +58,9 @@
                             </div>   
                                 <div class="d-flex justify-content-around pt-5">
                                     <nav>
-                                        <a href="partie1.html"><img  class="mr-4 rounded" src="imagedepartie.png" alt="partie1"></a>
-                                        <a href="partie2.html"><img  class="mr-4 rounded" src="imagedepartie.png" alt="partie2"></a>
-                                        <a href="partie3.html"><img  class="mr-4 rounded" src="imagedepartie.png" alt="partie3"></a>
+                                        <a href="partie1.html"><img  class="mr-4 rounded mb-4" src="Img/imagedepartie.png" alt="partie1"></a>
+                                        <a href="partie2.html"><img  class="mr-4 rounded mb-4" src="Img/imagedepartie.png" alt="partie2"></a>
+                                        <a href="partie3.html"><img  class="mr-4 rounded mb-4" src="Img/imagedepartie.png" alt="partie3"></a>
                                     </nav>
                                 </div>
                                     <nav>
