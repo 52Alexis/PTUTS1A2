@@ -33,6 +33,12 @@ h6{
     opacity: 1;
 }
 
+.footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
 .hauteur{
     height: 80%;
     width: 20%;
