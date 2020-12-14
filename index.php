@@ -11,7 +11,7 @@
 
 <body>
     <?php include("head.php") ?>
-                <main>
+                <main class="bg-dark">
                     <section>
                         <div class="box">
                             <img src="Img/noir.png" class="img-fluid" alt="Image accueil">
