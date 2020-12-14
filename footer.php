@@ -8,11 +8,11 @@
         <p class="text-light pt-3">Sité réalisé par BERNHARD William, HEIDET Lucas, TROGNOT Mathias, VILMARD Alexis, dans le cadre de notre projet tutoré sur les logiciels de musique assistée par ordinateur  à l'IUT Informatique de Belfort </p>
       </div>
       <hr class="clearfix w-100 d-md-none pb-3">
-      <div class="col-md-6 mb-md-0 mb-3">
-        <h5 class="text-uppercase font-weight-bold text-light">iut informatique de belfort</h5>
+      <div class="col-md-6 mb-md-0 mb-3" style="background-color: white;">
+        <h5 class="text-uppercase font-weight-bold text-dark">iut informatique de belfort</h5>
         <div class="d-block d-inline"> 
-        <img class="float-left w-25" src="DUT_info_logo_black_text.png" alt="Photo de l'iut belfort montbéliard" class="rounded float left">
-        <img class=" float-right ml-5 hauteur" src="IUT_logo_black_text.png" alt="Photo du département Informatique iut belfort" class="rounded float left">
+        <img class="float-left w-25 pt-4" src="Img/iutinfoptut.png" alt="Photo de l'iut belfort montbéliard" class="rounded float left">
+        <img class=" float-right ml-5 hauteur" src="Img/iutptut.png" alt="Photo du département Informatique iut belfort" class="rounded float left">
     </div>
     </div>
   </div>
