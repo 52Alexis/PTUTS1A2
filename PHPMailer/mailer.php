@@ -7,11 +7,7 @@
     <title>Formulaire de contact</title>
     <script src="https://kit.fontawesome.com/718141b9f4.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <style type="text/css">
-        input, textarea {
-            margin-top: 30px;
-        }
-    </style>
+    
 </head>
 <body class="bg-dark">
 <?php 
@@ -20,9 +16,9 @@ include("../head.php");
 <main>
     
     <div class="bg-dark">
-    <h2 class="h1-responsive font-weight-bold text-center my-4 text-light">Nous Contacter</h2>
-    
-    <div class="row pl-4">
+    <h2 class="h1-responsive font-weight-bold text-center my-4 text-light">Envoyer un retour</h2>
+<div class="container">   
+    <div class="row justify-content-center pl-4">
 
         <div class="col-md-9 mb-md-0 mb-5">
 
@@ -30,12 +26,12 @@ include("../head.php");
 
                 <div class="col-md-6">
                     <div class="md-form mb-0">
-                        <input id="name" placeholder="Nom" class="form-control">
+                        <input id="name" placeholder="Nom" class="form-control mt-4">
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="md-form mb-0">
-                        <input id="email" placeholder="Email" class="form-control">
+                        <input id="email" placeholder="Email" class="form-control mt-4">
                     </div>
                 </div>
             </div>         
@@ -43,7 +39,7 @@ include("../head.php");
             <div class="row">
                 <div class="col-md-12">
                     <div class="md-form mb-0">
-                        <input id="subject" placeholder="Objet" class="form-control">
+                        <input id="subject" placeholder="Objet" class="form-control mt-4">
                     </div>
                 </div>
             </div>
@@ -52,18 +48,18 @@ include("../head.php");
             <div class="row">
                 <div class="col-md-12">
                     <div class="md-form">
-                        <textarea class="form-control md-textarea" style="resize: none; height: 205px" id="body" placeholder="Votre message..." rows="2"></textarea>
+                        <textarea class="form-control md-textarea mt-4" style="resize: none; height: 205px" id="body" placeholder="Votre message..." rows="2"></textarea>
                     </div>
                 </div>
             </div>
-            <div class="text-center text-md-center pt-3">
-                <a type="button" onclick="sendEmail()" value="Envoyer" class="btn btn-primary" href="../index.php">Envoyer</a>
+            <div class="text-center text-md-center mt-4">
+                <a onclick="sendEmail()" class="btn btn-primary" href="../index.php">Envoyer</a>
             </div>
             <div class="status">
         </div>
         <div class="text-center text-light">
             <ul class="list-unstyled">
-                <li class="float-left pt-4"><i class="fas fa-map-marker-alt fa-4x"></i>
+                <li class="float-left mt-4"><i class="fas fa-map-marker-alt fa-4x"></i>
                     <p>Iut de Belfort, Département informatique</p>
                 </li>               
                 <li class="float-right"><i class="fas fa-envelope mt-4 fa-4x"></i>
@@ -71,8 +67,10 @@ include("../head.php");
                 </li>
             </ul>
         </div>
+    
         
-    </div>          
+    </div>
+</div>          
        
     <script src="http://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
     <script type="text/javascript">
