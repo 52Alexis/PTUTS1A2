@@ -1,4 +1,3 @@
-
 <footer class="page-footer font-small bg-dark pt-4 border-top border-light">
 	<div class="container-fluid text-center text-md-left bg-dark">
 		<div class="row">
@@ -8,10 +7,10 @@
 			</div>
 			<hr class="clearfix w-100 d-md-none pb-3">
 			<div class="col-md-6 mb-md-0 mb-3">
-				<h5 class="text-uppercase font-weight-bold text-dark">iut informatique de belfort</h5>
+				<h5 class="text-uppercase font-weight-bold text-light">iut informatique de belfort</h5>
 				<div class="d-block d-inline"> 
-					<img class="float-left w-25" src="iutinfo.png" alt="Photo de l'iut belfort montbéliard" class="rounded float left">
-					<img class=" float-right ml-5 hauteur" src="iut.png" alt="Photo du département Informatique iut belfort" class="rounded float left">
+					<img class="float-left w-25 pt-4, rounded" src="iutinfo.png" alt="Photo de l'iut belfort montbéliard">
+					<img class=" float-right ml-5 hauteur rounded" src="iut.png" alt="Photo du département Informatique iut belfort">
 				</div>
 			</div>
 		</div>
