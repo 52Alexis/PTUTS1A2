@@ -38,7 +38,7 @@
                     <div>
                         <br>
                         <div class="text-center pt-5">
-                            <a href="conclusion.php"><button type="button" class="btn btn-outline-primary btn-lg">Voir conclusion</button></a>
+                            <a href="conclusion.php" type="button" class="btn btn-outline-primary btn-lg">Voir conclusion</a>
                         </div>
                     </div>  
                 </nav>
