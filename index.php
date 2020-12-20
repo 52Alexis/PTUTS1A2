@@ -32,7 +32,7 @@
                     <div class="container-fluid">
                     <div class="row">
 
-                        <div class="col bg-dark text-center text-light  rounded-left"><a href="partie1.php"><img src="img/Ableton.png" class="img-responsive img-thumbnail"></a></div>
+                        <div class="col bg-dark text-center text-light  rounded-left"><a href="partie1.php"><img src="img/Ableton.jpg" class="img-responsive img-thumbnail"></a></div>
 
                         <div class="d-none d-sm-block col bg-dark text-center text-light"><a href="partie2.php"><img src="img/partie2.png" class="img-responsive img-thumbnail"></a></div>
 
