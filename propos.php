@@ -43,15 +43,14 @@
         </div>
         <h2 class="text-center text-light p-1">Travail de groupe durant le projet</h2>
         <div class="text-justify text-light">
-            <p>
-                Nous nous sommes constitué car nous nous entendions plutôt bien, et cette bonne ambiance s’est maintenue tout au long de notre projet. Nous nous sommes mutuellement venus en aide régulièrement, et comme évoqué auparavant, nos opinions étaient assez similaires.
-                Nous avons communiqué à l’aide de l’application Discord, Nous avons créé un groupe réservé au projet tuteuré, où nous communiquions à l’écrit dans des salons prévus pour, ainsi que à l’oral, nos réunions par exemple se sont faites sur Discord. Les deux raisons principales à notre utilisation de ce réseau social est premièrement son côté très pratique, nous pouvions nous joindre presque à tout moment, si l’on a besoin d’aide, une question, mais aussi à cause du confinement. Nous n’avons pas pu faire nos réunions en présentiel, et nous avons par conséquent utilisé Discord. Malgré le confinement lors de la seconde moitié de ce premier semestre, qui pour certains d’entre nous est notre premier semestre dans le supérieur, notre organisation tout au long de ce projet était bonne, le dirigeant a correctement réparti les différentes tâches au sein du groupe, et a bien joué son rôle. Nos échanges écrits sont gardés sur le groupe Discord dédié au projet, cependant nous avons pas gardé la trace de chaque réunion en détail, même si nous avons noté la plupart du temps les choses importantes de côté.
+            <p>Nous nous sommes constitué car nous nous entendions plutôt bien, et cette bonne ambiance s’est maintenue tout au long de notre projet. Nous nous sommes mutuellement venus en aide régulièrement, et comme évoqué auparavant, nos opinions étaient assez similaires.
+            Nous avons communiqué à l’aide de l’application Discord, Nous avons créé un groupe réservé au projet tuteuré, où nous communiquions à l’écrit dans des salons prévus pour, ainsi que à l’oral, nos réunions par exemple se sont faites sur Discord. Les deux raisons principales à notre utilisation de ce réseau social est premièrement son côté très pratique, nous pouvions nous joindre presque à tout moment, si l’on a besoin d’aide, une question, mais aussi à cause du confinement. Nous n’avons pas pu faire nos réunions en présentiel, et nous avons par conséquent utilisé Discord. Malgré le confinement lors de la seconde moitié de ce premier semestre, qui pour certains d’entre nous est notre premier semestre dans le supérieur, notre organisation tout au long de ce projet était bonne, le dirigeant a correctement réparti les différentes tâches au sein du groupe, et a bien joué son rôle. Nos échanges écrits sont gardés sur le groupe Discord dédié au projet, cependant nous avons pas gardé la trace de chaque réunion en détail, même si nous avons noté la plupart du temps les choses importantes de côté.
             </p>
         </div>
     </main>
-<div>
+
 <?php include("footer.php"); ?>
-</div>
+
 
 
 </body>
