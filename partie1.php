@@ -18,7 +18,7 @@
     <div class="container-fluid">
         <div class="row">
                 
-            <div class="col bg-dark text-center text-light"><h4 class="text-justify">Dans la catégorie des logiciels de MAO, il existe 6 types de logiciels différents. Nous allons les lister ici :</h1>
+            <div class="col bg-dark text-center text-light border-right border-light"><h4 class="text-justify">Dans la catégorie des logiciels de MAO, il existe 6 types de logiciels différents. Nous allons les lister ici :</h1>
             <ul>
                 <li class="text-justify pt-2">Les séquenceurs : les logiciels les plus utilisés pour composer de la musique sur ordinateur. Ils permettent une énorme palette de possibilité de sons, instruments virtuels et effets modulant les samples et instruments à loisir. De plus, il est possible d’acheter et d’installer des instruments et des packs de samples supplémentaires pour augmenter encore plus la banque dans laquelle vous piocher pour créer votre musique.
                 </li>
@@ -45,27 +45,23 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="trackers.jpg" class="d-block w-100" alt="...">
+      <img src="trackers.jpg" class="d-block w-100" alt="LOGICIEL DE TRACKER" title="Logiciel de tracker">
       <div class="carousel-caption d-none d-md-block">
-        <h5>Logiciel de trackers</h5>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="synthetiseur.jpg" class="d-block w-100" alt="...">
+      <img src="synthetiseur.jpg" class="d-block w-100" alt="LOGICIEL DE SYNTHETISEUR" title="Synthétiseur">
       <div class="carousel-caption d-none d-md-block">
-        <h5>Logiciel de Synthetiseur</h5>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="notation.jpg" class="d-block w-100" alt="...">
+      <img src="notation.jpg" class="d-block w-100" alt="LOGICIEL DE NOTATION" title="Logiciel de notation">
       <div class="carousel-caption d-none d-md-block">
-        <h5>Logiciel de notation</h5>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="apprentissage.jpg" class="d-block w-100" alt="...">
+      <img src="apprentissage.jpg" class="d-block w-100" alt="LOGICIEL D'APPRENTISSAGE" title="Logiciel d'apprentissage">
       <div class="carousel-caption d-none d-md-block">
-        <h5>Logiciel d'apprentissage</h5>
       </div>
     </div>
   </div>
