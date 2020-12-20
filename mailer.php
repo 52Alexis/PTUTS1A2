@@ -114,7 +114,7 @@ include("head.php");
     </script>
 </main>
 <?php 
-include("../footer.php")
+include("footer.php")
 ?>
 </body>
 </html>
