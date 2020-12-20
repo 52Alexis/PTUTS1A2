@@ -1,4 +1,4 @@
-<footer class="page-footer footer font-small bg-dark pt-4 border-top border-light">
+<footer class="page-footer font-small bg-dark pt-4 border-top border-light">
 	<div class="container-fluid text-center text-md-left bg-dark">
 		<div class="row">
 			<div class="col-md-6 mt-md-0 mt-3">
@@ -14,6 +14,6 @@
 				</div>
 			</div>
 		</div>
-	    <div class="footer-copyright text-center py-3 text-light" style="background-color: #121214; width: 100%;">© 2020 LesLogicielsMao</div>
+	<div class="footer-copyright text-center py-3 text-light" style="background-color: #121214; width: 100%;">© 2020 LesLogicielsMao</div>
 	</div>
 </footer>
