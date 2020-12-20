@@ -114,7 +114,7 @@
                         </ul>
                 </div>
 
-                <div class="d-none d-sm-block col bg-dark text-center text-light">
+                <div class="d-none d-lg-block  col bg-dark text-center text-light">
                     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
                         <ol class="carousel-indicators">
                             <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>

@@ -17,7 +17,7 @@
     <div class="container-fluid">
         <div class="row">
 
-            <div class="d-none d-sm-block col bg-dark text-center text-light"><div id="carouselpartie3" class="carousel slide" data-ride="carousel">
+            <div class="d-none d-lg-block col bg-dark text-center text-light"><div id="carouselpartie3" class="carousel slide" data-ride="carousel">
                     <ol class="carousel-indicators">
                         <li data-target="#carouselpartie3" data-slide-to="0" class="active"></li>
                         <li data-target="#carouselpartie3" data-slide-to="1"></li>
