@@ -82,10 +82,6 @@
             </div>
         </div>
     </main>
-    <footer class="footer">
     <?php include("footer.php")?>
-    </footer>
-
 </body>
-
 </html>

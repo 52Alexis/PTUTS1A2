@@ -1,4 +1,4 @@
-<footer class="page-footer font-small bg-dark pt-4 border-top border-light">
+<footer class="page-footer footer font-small bg-dark pt-4 border-top border-light">
 	<div class="container-fluid text-center text-md-left bg-dark">
 		<div class="row">
 			<div class="col-md-6 mt-md-0 mt-3">
