@@ -13,7 +13,6 @@
             <section>
                 <div class="box">
                     <img src="img/head.jpg" class="img-fluid" alt="Image accueil">
-
                     <nav>
                         <a href="decouvrir.php" class="legende2 text-light"><h6 class="text-light">Découvrir : L'aide des logiciels de Musique assistée par ordinateur dans la conception musicale</h6></a>
                     </nav>
@@ -25,7 +24,32 @@
                     <h2>Introduction</h2>
                 </div>
                 <div class="ml-5">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+                    <p>
+                        Avec l’évolution de la technologie, la création musicale a changé et se
+                        fait maintenant majoritairement à l’aide de logiciels de Musique Assistée par
+                        Ordinateur (abrégés logiciels MAO par la suite). Les logiciels MAO peuvent se
+                        définir comme l’ensemble des logiciels permettant de créer ou apprendre la
+                        musique de manière numérique.
+                    </p>
+                    <p>
+                        Nous avons choisi ce sujet car nous avons trouvé intéressant la manière dont
+                        la MAO s’est démocratisée dans le monde de la conception musicale et nous
+                        avons voulu en savoir plus sur leur fonctionnement.
+                    </p>
+                    <p>
+                        Pour illustrer ça plus facilement, nous avons développé un site web montrant
+                        différents types de logiciels et un regard du public envers ces logiciels (au
+                        travers d’un sondage réalisé sur le département informatique) avec un zoom
+                        sur les aspects juridique et économique de ces logiciels rarement gratuits.
+                    </p>
+                    <p>
+                        Nous allons donc nous intéresser à ces logiciels permettant à tout le monde
+                        de créer une oeuvre musicale. Tout d’abord nous vous proposerons une
+                        présentation des différents types de MAO, de leur fonctionnement et du
+                        regard économique et légal de ces logiciels, puis dans un second temps une
+                        partie dédiée à l’explication du développement de notre site web et pour finir
+                        une partie sur la gestion du travail de groupe au cours du projet.
+                    </p>
                 </div>
 
                     <br>
