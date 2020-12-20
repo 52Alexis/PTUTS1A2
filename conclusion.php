@@ -15,7 +15,7 @@
             <div class="row">
                 <div class="text-justify text-light">
                     <p>
-                        En guise de conclusion,nous pouvons affirmer qu’il y a de nombreux
+                        En guise de conclusion, nous pouvons affirmer qu’il y a de nombreux
                         types de logiciels de musique assistée par ordinateur dont, par exemple, les
                         séquenceurs, les trackers, les synthétiseurs… les plus utilisés étant les
                         séquenceurs. La plupart de ces logiciels fonctionnent grâce à la norme MIDI,
