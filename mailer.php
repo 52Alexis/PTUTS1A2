@@ -53,7 +53,7 @@ include("head.php");
                 </div>
             </div>
             <div class="text-center text-md-center mt-4">
-                <a onclick="sendEmail()" class="btn btn-primary" href="../index.php">Envoyer</a>
+                <a onclick="sendEmail()" class="btn btn-primary" href="index.php">Envoyer</a>
             </div>
             <div class="status">
         </div>
