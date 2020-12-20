@@ -60,7 +60,7 @@
 
                         <div class="d-none d-sm-block col bg-dark text-center text-light"><a href="partie2.php"><img src="img/partie2.png" class="img-responsive img-thumbnail"><div class="legende2">Partie 2</div></img></a></div>
 
-                        <div class="d-md-none d-lg-block d-none d-sm-block col bg-dark text-center text-light rounded-right mr-5"><a href="partie3.php"><img src="img/graphe1.png" class="img-responsive img-thumbnail"><div class="legende2">Partie 3</div></img></a></div>
+                        <div class="d-md-none d-lg-block d-none d-sm-block col bg-dark text-center text-light rounded-right mr-5"><a href="partie3.php"><img src="img/graphe2.png" class="img-responsive img-thumbnail"><div class="legende2">Partie 3</div></img></a></div>
 
                     </div>
                     </div>
