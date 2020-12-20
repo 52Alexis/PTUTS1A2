@@ -7,7 +7,7 @@
                     <a class="navbar-brand active pl-3 pb-3" href="index.php">Accueil</a>
                 </li>
                 <li class="nav-item">
-                    <a class="navbar-brand active pl-3 pb-3" href="partie1.php">A propos</a>
+                    <a class="navbar-brand active pl-3 pb-3" href="propos.php">A propos</a>
                 </li>
                 <li class="nav-item">
                     <a class="navbar-brand ml-5" href="PHPMailer/mailer.php">Nous contacter</a>
