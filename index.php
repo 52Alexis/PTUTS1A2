@@ -11,11 +11,9 @@
     <?php include("head.php") ?>
         <main class="bg-dark">
             <section>
+                <br>
                 <div class="box">
-                    <img src="img/head.jpg" class="img-fluid" alt="Image accueil">
-                    <nav>
-                        <a href="decouvrir.php" class="legende2 text-light"><h6 class="text-light">Découvrir : L'aide des logiciels de Musique assistée par ordinateur dans la conception musicale</h6></a>
-                    </nav>
+                    <img src="img/head.png" class="img-fluid rounded mx-auto d-block" alt="Image accueil">
                 </div>
             </section>
 
