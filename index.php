@@ -12,7 +12,7 @@
         <main class="bg-dark">
             <section>
                 <div class="box">
-                    <img src="noir.png" class="img-fluid" alt="Image accueil">
+                    <img src="img/head.jpg" class="img-fluid" alt="Image accueil">
                             
                     <nav>
                         <a href="decouvrir.php" class="legende2 text-light"><h6 class="text-light">Découvrir : L'aide des logiciels de Musique assistée par ordinateur dans la conception musicale</h6></a>
