@@ -14,6 +14,6 @@
 				</div>
 			</div>
 		</div>
-	<div class="footer-copyright text-center py-3 text-light" style="background-color: #121214; width: 100%;">© 2020 LesLogicielsMao</div>
+	    <div class="footer-copyright text-center py-3 text-light" style="background-color: #121214; width: 100%;">© 2020 LesLogicielsMao</div>
 	</div>
 </footer>

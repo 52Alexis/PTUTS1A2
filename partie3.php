@@ -25,22 +25,17 @@
                     </ol>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="trackers.jpg" class="d-block w-100" alt="LOGICIEL DE TRACKER" title="Logiciel de tracker">
+                            <img src="img/graphe1.png" class="d-block w-100" alt="LOGICIEL DE TRACKER" title="Logiciel de tracker">
                             <div class="carousel-caption d-none d-md-block">
                             </div>
                         </div>
                         <div class="carousel-item">
-                            <img src="synthetiseur.jpg" class="d-block w-100" alt="LOGICIEL DE SYNTHETISEUR" title="Synthétiseur">
+                            <img src="img/p3.png" class="d-block w-100" alt="LOGICIEL DE SYNTHETISEUR" title="Synthétiseur">
                             <div class="carousel-caption d-none d-md-block">
                             </div>
                         </div>
                         <div class="carousel-item">
-                            <img src="notation.jpg" class="d-block w-100" alt="LOGICIEL DE NOTATION" title="Logiciel de notation">
-                            <div class="carousel-caption d-none d-md-block">
-                            </div>
-                        </div>
-                        <div class="carousel-item">
-                            <img src="apprentissage.jpg" class="d-block w-100" alt="LOGICIEL D'APPRENTISSAGE" title="Logiciel d'apprentissage">
+                            <img src="img/graphe2.png" class="d-block w-100" alt="LOGICIEL DE NOTATION" title="Logiciel de notation">
                             <div class="carousel-caption d-none d-md-block">
                             </div>
                         </div>
