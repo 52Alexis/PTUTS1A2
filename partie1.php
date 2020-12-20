@@ -83,9 +83,9 @@
             </div>
         </div>
     </main>
-    <footer class="footer">
+<div>
     <?php include("footer.php")?>
-    </footer>
+</div>
 
 </body>
 
