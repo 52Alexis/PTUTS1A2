@@ -4,7 +4,7 @@
         <div class="mt-3">
             <ul class="nav justify-content-start">  
                 <li class="nav-item">
-                <a class="navbar-brand active pl-3 pb-3" href="index.php">Acceuil</a>
+                <a class="navbar-brand active pl-3 pb-3" href="index.php">Accueil</a>
                 </li>
                 <li class="nav-item">
                 <a class="navbar-brand active pl-3 pb-3" href="partie1.php">Les différents types de logiciels</a>
