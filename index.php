@@ -27,18 +27,25 @@
                 <div class="ml-5">
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
                 </div>   
-                <div class="d-flex justify-content-around pt-5">
-                    <nav>
-                        <a href="partie1.php"><img  class="mr-4 rounded mb-4" src="imagedepartie.png" alt="partie1"></a>
-                        <a href="partie2.php"><img  class="mr-4 rounded mb-4" src="imagedepartie.png" alt="partie2"></a>
-                        <a href="partie3.php"><img  class="mr-4 rounded mb-4" src="imagedepartie.png" alt="partie3"></a>
-                    </nav>
-                </div>
+                
+                    <br>
+                    <div class="container-fluid">
+                    <div class="row">
+                
+                        <div class="col bg-dark text-center text-light  rounded-left"><a href="partie1.php"><img src="imagedepartie.png" class="img-responsive img-thumbnail"></a></div>
+                
+                        <div class="d-none d-sm-block col bg-dark text-center text-light"><a href="partie2.php"><img src="imagedepartie.png" class="img-responsive img-thumbnail"></a></div>
+                
+                        <div class="d-md-none d-lg-block d-none d-sm-block col bg-dark text-center text-light rounded-right mr-5"><a href="partie3.php"><img src="imagedepartie.png" class="img-responsive img-thumbnail"></a></div>
+            
+                    </div>
+                    </div>
+                
                 <nav>
                     <div>
                         <br>
                         <div class="text-center pt-5">
-                            <a href="conclusion.php" type="button" class="btn btn-outline-primary btn-lg">Voir conclusion</a>
+                            <a href="conclusion.php"  class="btn btn-outline-primary btn-lg">Voir conclusion</a>
                         </div>
                     </div>  
                 </nav>
