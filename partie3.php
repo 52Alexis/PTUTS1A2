@@ -52,7 +52,7 @@
                 </div>
             </div>
 
-            <div class="col bg-dark text-center text-light border-right border-light">
+            <div class="col bg-dark text-center text-light border-left border-light">
                 <h4 class="text-justify">Licences, packs de samples et droits :</h4>
                 <ul class="text-justify pt-2">
                     <li>

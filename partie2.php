@@ -17,7 +17,8 @@
         <div class="container-fluid">
             <div class="row">
 
-                <div class="col bg-dark text-center text-light border-right border-light"><h4 class="text-justify">Les logiciels de MAO fonctionnent pour la plupart grâce à la norme midi. </h1>
+                <div class="col bg-dark text-center text-light border-right border-light">
+                    <h4 class="text-justify">Les logiciels de MAO fonctionnent pour la plupart grâce à la norme midi.</h4>
                         <h5 class="text-justify ml-5"> Voici une explication de ce qu'est cette norme, et de son fonctionnement :</h5>
                         <ul class="text-justify" >
                             <li class="text-justify pt-2">
@@ -31,7 +32,8 @@
                             <li class="text-justify pt-2">
                                 Le format MIDI diffère du format audio. Sur ce dernier, le son est déjà
                                 enregistré, et il n’est pas aisé de le modifier. Il ne sera par exemple pas
-                                possible de faire des modifications majeures comme changer les notes d’une piste en particulier, tandis que le MIDI est un langage informatique, il ne
+                                possible de faire des modifications majeures comme changer les notes d’une piste en particulier,
+                                tandis que le MIDI est un langage informatique, il ne
                                 produit aucun son par lui même. Il a besoin d’un support, comme un
                                 instrument de musique électronique ou encore un séquenceur afin
                                 d’interpréter les données, qui ne sont pas encore à l’état de « son ». C’est
@@ -96,6 +98,7 @@
                                         Le port THRU
                                     </li>
                                 </ul>
+                                <br>
                                 Le port OUT est l’« émetteur » tandis que le port IN est le « récepteur »
                                 du signal. Il faut donc brancher le câble en partant du port MIDI OUT du
                                 premier appareil afin d’arriver sur le port MIDI IN du second pour établir la
@@ -110,6 +113,7 @@
                             </li>
                         </ul>
                 </div>
+
                 <div class="d-none d-sm-block col bg-dark text-center text-light">
                     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
                         <ol class="carousel-indicators">
