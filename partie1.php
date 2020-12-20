@@ -18,26 +18,26 @@
     <div class="container-fluid">
         <div class="row">
                 
-            <div class="col bg-dark text-center text-light border-right border-light"><h4 class="text-justify">Dans la catégorie des logiciels de MAO, il existe 6 types de logiciels différents. Nous allons les lister ici :</h1>
+            <div class="col bg-dark text-center text-light border-right border-light"><h4 class="text-justify">Dans la catégorie des logiciels de MAO, il existe 6 types de logiciels différents. Nous allons les lister ici :</h1>
             <ul>
-                <li class="text-justify pt-2">Les séquenceurs : les logiciels les plus utilisés pour composer de la musique sur ordinateur. Ils permettent une énorme palette de possibilité de sons, instruments virtuels et effets modulant les samples et instruments à loisir. De plus, il est possible d’acheter et d’installer des instruments et des packs de samples supplémentaires pour augmenter encore plus la banque dans laquelle vous piocher pour créer votre musique.
+                <li class="text-justify pt-2">Les séquenceurs : les logiciels les plus utilisés pour composer de la musique sur ordinateur. Ils permettent une énorme palette de possibilité de sons, instruments virtuels et effets modulant les samples et instruments à loisir. De plus, il est possible d’acheter et d’installer des instruments et des packs de samples supplémentaires pour augmenter encore plus la banque dans laquelle vous piocher pour créer votre musique.
                 </li>
 
-                <li class="text-justify pt-2">Les trackers : encore dans la catégorie des logiciels de composition, les trackers se démarquent des séquenceurs par le fait qu’on ne peut utiliser que des samples pour composer. La banque de samples peut être agrandie, mais on ne peut pas rajouter d’instrument. La musique est entièrement composée de ces samples agrémentés d’effets.
+                <li class="text-justify pt-2">Les trackers : encore dans la catégorie des logiciels de composition, les trackers se démarquent des séquenceurs par le fait qu’on ne peut utiliser que des samples pour composer. La banque de samples peut être agrandie, mais on ne peut pas rajouter d’instrument. La musique est entièrement composée de ces samples agrémentés d’effets.
                 </li>
                 
-                <li class="text-justify pt-2">Les instruments de musique virtuels et les synthétiseurs logiciels : ces deux types de logiciels sont intimement liés car en effet, le synthétiseur étant un instrument il rentre dans la catégorie des instruments virtuels. Les instruments de musique virtuels sont conformes à leur appellation : ce sont des instruments de musique qu’on a virtualisé pour pouvoir en jouer sur un ordinateur. L’avantage de ces logiciels est le gain de place conséquent qu’ils peuvent apporter dans un studio de musique. Il serait difficile d’avoir 20 instruments différents dans 15 m², alors qu’un ordinateur portable assez puissant permet de tous les avoir à portée de main.
+                <li class="text-justify pt-2">Les instruments de musique virtuels et les synthétiseurs logiciels : ces deux types de logiciels sont intimement liés car en effet, le synthétiseur étant un instrument il rentre dans la catégorie des instruments virtuels. Les instruments de musique virtuels sont conformes à leur appellation : ce sont des instruments de musique qu’on a virtualisé pour pouvoir en jouer sur un ordinateur. L’avantage de ces logiciels est le gain de place conséquent qu’ils peuvent apporter dans un studio de musique. Il serait difficile d’avoir 20 instruments différents dans 15 m², alors qu’un ordinateur portable assez puissant permet de tous les avoir à portée de main.
                 </li>
                 
-                <li class="text-justify pt-2">Les logiciels de notation musicale : ces logiciels permettent d’écrire des partitions qui sont destinées à un musicien. Certains permettent aussi de faire une pré-écoute du morceau qu’on est en train d’écrire.
+                <li class="text-justify pt-2">Les logiciels de notation musicale : ces logiciels permettent d’écrire des partitions qui sont destinées à un musicien. Certains permettent aussi de faire une pré-écoute du morceau qu’on est en train d’écrire.
                 </li>
                 
-                <li class="text-justify pt-2">Les outils éducatifs : ces logiciels permettent d’apprendre différentes facettes de la musique comme le solfège ou directement un instrument. Ils se sont beaucoup répandus à l’arrivé des smartphones et tablettes, et il en existe pour tous les niveaux, y compris pour l’éveil musical (initiation à la musique pour les jeunes enfants)
+                <li class="text-justify pt-2">Les outils éducatifs : ces logiciels permettent d’apprendre différentes facettes de la musique comme le solfège ou directement un instrument. Ils se sont beaucoup répandus à l’arrivé des smartphones et tablettes, et il en existe pour tous les niveaux, y compris pour l’éveil musical (initiation à la musique pour les jeunes enfants)
                 </li>
             </ul>
             </div>
                 
-            <div class="d-none d-sm-block col bg-dark text-center text-light"><div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+            <div class="d-none d-lg-block col bg-dark text-center text-light"><div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
       <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
       <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
