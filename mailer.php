@@ -69,7 +69,11 @@
         </div>
     </div>
 </div>
+
 </main>
+<div class="fixed-bottom">
+    <?php include "footer.php" ?>
+</div>
 
 
 <script src="http://code.jquery.com/jquery-3.3.1.min.js"></script>
@@ -108,9 +112,6 @@
             return true;
         }
     </script>
-<div class="fixed-bottom">
-<?php include("footer.php") ?>
-</div>
 
 </body>
 </html>
