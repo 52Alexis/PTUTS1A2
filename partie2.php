@@ -15,8 +15,8 @@
             <div class="row">
 
                 <div class="col bg-dark text-center text-light border-right border-light"><h4 class="text-justify">Les logiciels de MAO fonctionnent pour la plupart grâce à la norme midi. </h1>
-                        <h5 style="margin-left:80px;" class="text-justify"> Voici une explication de ce qu'est cette norme, et de son fonctionnement :</h5>
-                        <ul style="text-align: justify;" >
+                        <h5 class="text-justify ml-5"> Voici une explication de ce qu'est cette norme, et de son fonctionnement :</h5>
+                        <ul class="text-justify" >
                             <li class="text-justify pt-2">
                                 La norme MIDI est un langage universel qui permet aux différents
                                 instruments de musique électronique de se connecter entre eux ou avec un
@@ -40,13 +40,13 @@
 
                             <li class="text-justify pt-2">
                                 Plus concrètement, le MIDI sert à plusieurs choses :
-                                <li style="margin-left: 40px;" class="text-justify pt-2">
+                                <li class="text-justify pt-2 ml-5">
                                     Tout d’abord il nous
                                     permet relier des instruments avec un ordinateur, sans cette possibilité, on
                                     ne peut pas faire de musique assistée par ordinateur, ou alors de façon très
                                     limitée.
                                 </li>
-                                <li style="margin-left: 40px;" class="text-justify pt-2">
+                                <li class="text-justify pt-2 ml-5">
                                     Il permet également de connecter deux instruments électroniques
                                     entre eux. Par exemple, on peut relier un synthétiseur avec une batterie
                                     électronique, et affecter les sons de la batterie sur le synthétiseur de manière
@@ -54,7 +54,7 @@
                                     son de batterie sort. Cette fonctionnalité décuple énormément les
                                     possibilités en termes de composition.
                                 </li>
-                                <li style="margin-left: 40px;" class="text-justify pt-2">
+                                <li class="text-justify pt-2 ml-5">
                                     Ensuite, grâce à l’informatique, on
                                     pourra reproduire virtuellement n’importe quel son. Il suffira de brancher un
                                     clavier, et on aura accès à tous les instruments qui seront jouables sur notre
@@ -79,13 +79,13 @@
                                 ordinateur, on va avoir besoin de réaliser une configuration MIDI sur notre
                                 ordinateur. Cependant la connexion MIDI permet d’échanger aussi entre
                                 deux instruments électroniques. Il existe 3 types de connecteurs MIDI :
-                                <li style="margin-left: 40px;" class="text-justify pt-2">
+                                <li class="text-justify pt-2 ml-5">
                                     Le port OUT
                                 </li>
-                                <li style="margin-left: 40px;" class="text-justify pt-2">
+                                <li class="text-justify pt-2 ml-5">
                                     Le port IN
                                 </li>
-                                <li style="margin-left: 40px;" class="text-justify pt-2">
+                                <li class="text-justify pt-2 ml-5">
                                     Le port THRU
                                 </li>
                                 Le port OUT est l’« émetteur » tandis que le port IN est le « récepteur »
