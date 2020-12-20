@@ -36,11 +36,11 @@
                 </ul>
             </div>
 
-            <div class="d-none d-sm-block col bg-dark text-center text-light"><div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+            <div class="d-none d-sm-block col bg-dark text-center text-light"><div id="carouselpartie1" class="carousel slide" data-ride="carousel">
                     <ol class="carousel-indicators">
-                        <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
-                        <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
-                        <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+                        <li data-target="#carouselpartie1" data-slide-to="0" class="active"></li>
+                        <li data-target="#carouselpartie1" data-slide-to="1"></li>
+                        <li data-target="#carouselpartie1" data-slide-to="2"></li>
                     </ol>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
@@ -64,11 +64,11 @@
                             </div>
                         </div>
                     </div>
-                    <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+                    <a class="carousel-control-prev" href="#carouselpartie1" role="button" data-slide="prev">
                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                         <span class="sr-only">Previous</span>
                     </a>
-                    <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+                    <a class="carousel-control-next" href="#carouselpartie1" role="button" data-slide="next">
                         <span class="carousel-control-next-icon" aria-hidden="true"></span>
                         <span class="sr-only">Next</span>
                     </a>
