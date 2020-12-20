@@ -13,7 +13,7 @@
     <main>
         <div class="container-fluid">
             <div class="row">
-                <div class="text-justify text-light">
+                <div class="text-justify text-light px-3">
                     <p>
                         En guise de conclusion, nous pouvons affirmer qu’il y a de nombreux
                         types de logiciels de musique assistée par ordinateur dont, par exemple, les
