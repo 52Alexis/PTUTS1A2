@@ -1,5 +1,34 @@
+Production:
+    27pages
+    un site web
+    cette presentation
+
+bonne ambiance
+
+discord pour la com et pour s'organiser
 
 Organisation: j'ai laissé une grande autonomie aux membre du groupes
 nous réalisions une réunion hebdomadaire sur Discord dans laquelles je fixais des objectifs d'avancement et je vérifiais l'avancement
 
+implication de chacun satisfaisante même si regret sollicitation insuffisante des tuteurs
+
 description du gantt
+(retards du rapport lié au confinement
+prototype du site web lié à certaines complications)
+
+repartition des taches
+gr Lucas Mathis pour le rapport
+gt moi william pour site web
+
+dévellopé nos compétence en production de doc et dev web
+
+difficultés:
+confinement ralentit un peu travail
+==> retard sur le Gantt
+
+remerciements:
+Couturier
+Millet
+Sahler
+
+Sources + remerciement auditoire
